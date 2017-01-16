@@ -30,7 +30,7 @@ body {
 
 .title-brand h2 {
   color: #fff;
-  font-size: 2.5em;
+  font-size: 1.6em;
   font-weight: 200;
   letter-spacing: 2px;
   font-family: 'Roboto', sans-serif;
@@ -70,7 +70,6 @@ body {
    border: none;
  }
 
-
 .button-googleplus {
 	background-color: #d34836;
   margin-top: 5%;
@@ -108,7 +107,7 @@ ul.ul-brand {
   list-style-type: circle;
   color: #FFF;
   text-align: left;
-  font-size: 1.3em;
+  font-size: 1.2em;
   line-height: 40px;
   font-weight: 200;
   letter-spacing: 1px;
