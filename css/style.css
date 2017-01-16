@@ -135,14 +135,15 @@ ul.ul-brand {
     text-align: center;
     padding-left: 5%;
     padding-right: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
   }
 
   .mobile-login {
-    padding-top: 15%;
+    padding-top: 1%;
   }
 
   .mobile img {
-    padding-top: 10%;
     width: 150px;
       text-align:  center;
   }
